@@ -1501,4 +1501,4 @@ async def on_ready():
 
 
 
-client.run('Nzg4ODc4NDg0NjU0NjUzNDYw.X9p6Vw.TpsDK8oaXL3-X4Z90sA6eMuiqMc')
+client.run('Token Goes HERE')
