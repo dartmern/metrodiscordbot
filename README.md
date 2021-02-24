@@ -11,4 +11,10 @@ https://dsc.gg/metro
 If you want to join my bot support server for help:
 https://discord.gg/tVutR342Sq
 
+Update Notes:
+
+Since this is the first ever py file/update posted on github this is only to show and please don't use it in your code.
+
+
+
 
